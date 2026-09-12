@@ -239,3 +239,6 @@ This repository serves as the official landing page for ScreenMarker. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ScreenMarker today!**
+
+---
+**Last updated:** 2026-09-12 05:26:00 UTC
