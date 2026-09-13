@@ -241,4 +241,4 @@ This repository serves as the official landing page for ScreenMarker. The softwa
 **Get the most recent version of ScreenMarker today!**
 
 ---
-**Last updated:** 2026-09-12 23:46:16 UTC
+**Last updated:** 2026-09-13 03:25:28 UTC
